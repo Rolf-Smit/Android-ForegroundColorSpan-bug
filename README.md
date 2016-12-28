@@ -1,6 +1,8 @@
 # Android-ForegroundColorSpan-bug
 Example project to demonstrate the ForegroundColorSpan bug in Android 6/7
 
+**Bug report:** https://code.google.com/p/android/issues/detail?id=202365
+
 
 *Android API 22*
 
